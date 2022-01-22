@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm enriktigasna, a 14 soon 15 year old coder. My favorite language is python (How unique ikik), but I also like Typescript a lot. 
+I think php is overhated, and yeh. Idk what to put here, I want to have a lot of commits this year, if you want help with your repos then you can DM Me at enriktigasna#2668
