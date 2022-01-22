@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm enriktigasna, a 14 soon 15 year old coder. My favorite language is python (How unique ikik), but I also like Typescript a lot. I think php is overhated, and a perfectly viable way to build your websites, mfs be out here using wix and you mad about some php, especially when php8.0 exists. Get a grip. 
 
-#I'm enriktigasna, a 14 soon 15 year old coder. My favorite language is python (How unique ikik), but I also like Typescript a lot. 
-#I think php is overhated, and yeh. Idk what to put here, I want to have a lot of commits this year, if you want help with your repos then you can DM Me at enriktigasna#2668
+Idk what to put here, I want to have a lot of commits this year, if you want help with your repos then you can DM Me at enriktigasna#2668
 
-^^(Btw pls ⭐)
+Btw pls ⭐
