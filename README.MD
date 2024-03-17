@@ -26,4 +26,4 @@
 
 
 
-[Resume in Next.js and React](https://maxim-pavlenko.vercel.app/)
+[Resume in Next.js and React (https://pavlenko-maxim.vercel.app)] (Slightly Outdated)
