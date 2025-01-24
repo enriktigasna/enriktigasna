@@ -1,7 +1,7 @@
 ### Maxim Pavlenko
 - Studying technology and programming at NTI Gymnasium
 - Fullstack web developement, UI
-- It Specialist - Java (Pearson Certification)
+- Binary Exploitation, Reverse Engineering
 - Swedish 🇸🇪
 - Russian 🇷🇺
 - English 🇬🇧
