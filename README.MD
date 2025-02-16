@@ -6,6 +6,8 @@
 - Russian 🇷🇺
 - English 🇬🇧
 
+Also check out my website: [mackan.dev](https://mackan.dev)
+
 #### Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,photoshop,js,ts,html,css,tailwind,react,py,java" />
